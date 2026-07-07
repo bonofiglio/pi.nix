@@ -18,6 +18,7 @@
 
   outputs =
     {
+      self,
       nixpkgs,
       flake-utils,
       pi,
@@ -67,5 +68,10 @@
           ];
         };
       }
-    );
+    )
+    // {
+      overlays.default = final: prev: {
+        pi = self.packages.${final.stdenv.hostPlatform.system}.pi;
+      };
+    };
 }
