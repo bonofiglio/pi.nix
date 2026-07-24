@@ -22,11 +22,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1784497964,
-        "narHash": "sha256-vlHUuqAcbcH2RKmHbPiuQzbv1pnzzavXnI62RD0bqCU=",
+        "lastModified": 1784796856,
+        "narHash": "sha256-wWFrV5/Qbm+lyt5x20E/bSbfJiGKMo4RCxZV8cl/WZI=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "241313f4e8e508cb9b13278c2b0fa25b9ca27163",
+        "rev": "e2587caef70cea85dd97d7daab492899902dbf5d",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
     "pi": {
       "flake": false,
       "locked": {
-        "lastModified": 1784652011,
-        "narHash": "sha256-kBcLD2eDIxi2z3SkTtgGjrBa2Azi4Zi6kQ41ogkqkAU=",
+        "lastModified": 1784898802,
+        "narHash": "sha256-ymTg11fjNSQjwpuqnd87CZ/fn/0sEPJ5JDkAeVA3ZHw=",
         "owner": "earendil-works",
         "repo": "pi",
-        "rev": "dd6bea41efa8caa7a10fe5a6401676dc5699f83f",
+        "rev": "24e5cc04f413206956cfd21839a7026de673f354",
         "type": "github"
       },
       "original": {
